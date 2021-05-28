@@ -19,7 +19,8 @@ We use following technologies:<br>
 Intents are also used to transfer data between activities. Intents are used generally for starting a new activity using startActivity().<br>
 
 *This is how App's main page looks like. It has four options at bootom.<br>Here on this page we have all the main information about contacts.*<br> 
-![Home](https://user-images.githubusercontent.com/58518903/120006219-4f67e100-bff6-11eb-9527-133b7489de3f.jpg)
+
+<img src="https://user-images.githubusercontent.com/58518903/120006219-4f67e100-bff6-11eb-9527-133b7489de3f.jpg" width="100">
 <br>
 *On this page, we displayed all the news and currents activities regarding covid-19 are displayed.*<br>
 ![notification](https://user-images.githubusercontent.com/58518903/120006349-71f9fa00-bff6-11eb-9878-d662c63514b0.jpg)
