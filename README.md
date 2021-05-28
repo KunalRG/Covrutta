@@ -19,19 +19,18 @@ We use following technologies:<br>
 Intents are also used to transfer data between activities. Intents are used generally for starting a new activity using startActivity().<br>
 
 *This is how App's main page looks like. It has four options at bootom.<br>Here on this page we have all the main information about contacts.*<br> 
-
-<img src="https://user-images.githubusercontent.com/58518903/120006219-4f67e100-bff6-11eb-9527-133b7489de3f.jpg" width="100">
+<img src="https://user-images.githubusercontent.com/58518903/120006219-4f67e100-bff6-11eb-9527-133b7489de3f.jpg" width="300">
 <br>
 *On this page, we displayed all the news and currents activities regarding covid-19 are displayed.*<br>
-![notification](https://user-images.githubusercontent.com/58518903/120006349-71f9fa00-bff6-11eb-9878-d662c63514b0.jpg)
+<img src="https://user-images.githubusercontent.com/58518903/120006349-71f9fa00-bff6-11eb-9878-d662c63514b0.jpg" width="300">
 <br>
 *On this page,we have information about all Covid hospitals from all around India.*<br>
-![hospital](https://user-images.githubusercontent.com/58518903/120006473-8a6a1480-bff6-11eb-8703-f30343d5a792.jpg)
+<img src="https://user-images.githubusercontent.com/58518903/120006473-8a6a1480-bff6-11eb-8703-f30343d5a792.jpg" width="300">
 <br>
 *This page shows the inforamtion about colleges which are being converted into hospitals*.<br>*On rightmost side of **Search bar** we implemented a filter.*<br>
-![Clg_bed](https://user-images.githubusercontent.com/58518903/120006555-a077d500-bff6-11eb-885f-b981d4a61999.jpg)
+<img src="https://user-images.githubusercontent.com/58518903/120006555-a077d500-bff6-11eb-885f-b981d4a61999.jpg" width="300">
 <br>
 *This is the graph of decesed people vs date.*<br>
-![stats](https://user-images.githubusercontent.com/58518903/120006637-b4bbd200-bff6-11eb-8b42-bdbf7bd5c18d.jpg)
+<img src="https://user-images.githubusercontent.com/58518903/120006637-b4bbd200-bff6-11eb-8b42-bdbf7bd5c18d.jpg" width="300">
 <br>
 
