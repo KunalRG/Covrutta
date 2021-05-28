@@ -18,14 +18,19 @@ We use following technologies:<br>
 ***Intent:** It is a class in Android Studios which is used for redirecting the links.<br>
 Intents are also used to transfer data between activities. Intents are used generally for starting a new activity using startActivity().<br>
 
-*This is how App's main page looks like. It has four options at bootom.<br>Here on this page we have all the main information about contacts.* 
+*This is how App's main page looks like. It has four options at bootom.<br>Here on this page we have all the main information about contacts.*<br> 
+![Home](https://user-images.githubusercontent.com/58518903/120006219-4f67e100-bff6-11eb-9527-133b7489de3f.jpg)
+<br>
+*On this page, we displayed all the news and currents activities regarding covid-19 are displayed.*<br>
+![notification](https://user-images.githubusercontent.com/58518903/120006349-71f9fa00-bff6-11eb-9878-d662c63514b0.jpg)
+<br>
+*On this page,we have information about all Covid hospitals from all around India.*<br>
+![hospital](https://user-images.githubusercontent.com/58518903/120006473-8a6a1480-bff6-11eb-8703-f30343d5a792.jpg)
+<br>
+*This page shows the inforamtion about colleges which are being converted into hospitals*.<br>*On rightmost side of **Search bar** we implemented a filter.*<br>
+![Clg_bed](https://user-images.githubusercontent.com/58518903/120006555-a077d500-bff6-11eb-885f-b981d4a61999.jpg)
+<br>
+*This is the graph of decesed people vs date.*<br>
+![stats](https://user-images.githubusercontent.com/58518903/120006637-b4bbd200-bff6-11eb-8b42-bdbf7bd5c18d.jpg)
+<br>
 
-*On this page, we displayed all the news and currents activities regarding covid-19 are displayed.*
-
-*On this page,we have information about all Covid hospitals from all around India.*
-
-*This page shows the inforamtion about colleges which are being converted into hospitals.On rightmost side of **Search bar** we implemented a filter.*
-
-*This is the graph of decesed people vs date.*
-
-*This is a gragh after using filter*
